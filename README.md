@@ -15,6 +15,9 @@ https://github.com/user-attachments/assets/13986012-5457-4fb6-8a01-6c2c92230949
 - you can't add semesters, which have already been added
 - for grade field, you can input only the integers from 1 to 5
 
+https://github.com/user-attachments/assets/71dcb1f5-1dd2-4b34-a7e6-028e33c023ec
+
+
 ### Detailed result
 - you can get GPA and Credit Index for each semester you chose and in total
 
